@@ -11,3 +11,4 @@
   
 [context.production.services]
   identity = "staging"
+  git-gateway = "staging"
