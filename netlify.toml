@@ -12,3 +12,5 @@
 [context.production.services]
   identity = "staging"
   git = "staging"
+  analytics = "staging"
+  
